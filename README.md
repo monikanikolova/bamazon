@@ -36,6 +36,6 @@ Finally, run the node server locally.
 ```
 node ./server.js
 ```
-Now, open the local application on port 3000 at the URL: http://localhost:3306/.
+Now, open the local application on port 3306 at the URL: http://localhost:3306/.
 
 Enjoy!
